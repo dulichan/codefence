@@ -45,6 +45,7 @@ Note that order does not matter.
 | Options      | Example                | Description                                                           |
 |:-------------|:-----------------------|:----------------------------------------------------------------------|
 |`lang`        | `ruby`                 | Used by the syntax highlighter. Passing 'plain' disables highlighting.|
+|`url`         | `url:"https://github.com/octopress/codefence"`  | URL |
 |`title`       | `title:"Figure 1.A"`   | Add a figcaption title to your code block. |
 |`link_text`   | `link_text:"Download"` | Text for the link, default: `"link"`. |
 |`linenos`     | `linenos:false`        | Disable line numbering. |
